@@ -2,40 +2,25 @@
 
 Exploring Windows Internals through small experiments and research questions.
 
+---
+
 ## Goal
 
-This repository documents my journey of learning **Windows Internals** and **Reverse Engineering** by investigating how Windows works.
+This repository documents my journey of learning Windows Internals and Reverse Engineering by investigating how Windows works.
 
-The focus is understanding concepts rather than building tools.
+The focus is understanding concepts rather than simply building tools or memorizing APIs.
 
-Current roadmap:
+---
 
-```text
-Windows Internals
-        ↓
-Systems Programming
-        ↓
-Reverse Engineering
-        ↓
-Software Security
-```
+## Method
 
-## Research Workflow
+Each investigation starts with a question.
 
 ```text
 Question
     ↓
-Research
+Current Understanding
     ↓
-Experiment
+Evidence
     ↓
-Code
-    ↓
-Document
-```
-
-Each question produces:
-
-* A small experiment
-* Source code
-* A research log in `docs/`
+Open Questions
